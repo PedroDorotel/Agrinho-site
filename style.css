@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: rgb(53, 235, 114) ;
+}
+
+img{
+    width: 650px;
+}
+div.parte1{background-color: rgb(25, 191, 241);
+    margin-left: 500px;
+    margin-right: 500px;
+    ;}
+div.parte2{background-color: rgb(13, 129, 206);
+    margin-left: 500px;
+    margin-right: 500px;
+}
+img{
+    border-color: rgb(208, 231, 252);
+    border-radius: 20px;
+    border-width: 3px;
+    border-style: solid;
+
+}
+div.parte3{background-color: rgb(174, 68, 235);
+    margin-left: 500px;
+    margin-right: 500px;
+    ;}
+div.parte4{background-color: rgb(159, 38, 196);
+    margin-left: 500px;
+    margin-right: 500px;
+}
